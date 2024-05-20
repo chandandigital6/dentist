@@ -1,4 +1,5 @@
 @extends('frontLayouts.main')
+@section('title', 'Services - DentCare')
 @section('content')
 
 
